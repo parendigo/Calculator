@@ -31,8 +31,9 @@ bin/
 # Compiled class file
 *.class
 
-# idea file
+# idea files
 .idea
+.iml
 
 # Log file
 *.log
