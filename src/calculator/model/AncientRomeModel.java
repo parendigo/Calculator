@@ -21,6 +21,9 @@ public class AncientRomeModel {
             }
         });
         numberMap.put(100, "C");
+        numberMap.put(90, "XC");
+        numberMap.put(50, "L");
+        numberMap.put(40, "XL");
         numberMap.put(10, "X");
         numberMap.put(9, "IX");
         numberMap.put(5, "V");
